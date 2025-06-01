@@ -16,7 +16,7 @@ The **Service Discovery** microservice is the central registry component in this
 ## 🛠️ Tech Stack
 
 * Java 17
-* Spring Boot 3.x
+* Spring Boot 3
 * Spring Cloud Netflix Eureka Server
 * Maven
 
